@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/pedroborgespj/projeto-js-gama-xp/issues"
   },
-  "homepage": "https://github.com/pedroborgespj/projeto-js-gama-xp#readme"
+  "homepage": "https://github.com/pedroborgespj/projeto-js-gama-xp#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
