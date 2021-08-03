@@ -1,0 +1,20 @@
+{
+  "name": "projeto-js-gama-xp",
+  "version": "1.0.0",
+  "description": "Projeto consulta biblioteca - xp38",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroborgespj/projeto-js-gama-xp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroborgespj/projeto-js-gama-xp/issues"
+  },
+  "homepage": "https://github.com/pedroborgespj/projeto-js-gama-xp#readme"
+}
